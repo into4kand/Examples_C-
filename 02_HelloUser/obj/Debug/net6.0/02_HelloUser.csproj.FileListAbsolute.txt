@@ -1,0 +1,15 @@
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\bin\Debug\net6.0\02_HelloUser.exe
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\bin\Debug\net6.0\02_HelloUser.deps.json
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\bin\Debug\net6.0\02_HelloUser.runtimeconfig.json
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\bin\Debug\net6.0\02_HelloUser.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\bin\Debug\net6.0\02_HelloUser.pdb
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.csproj.AssemblyReference.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.AssemblyInfoInputs.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.AssemblyInfo.cs
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.csproj.CoreCompileInputs.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\refint\02_HelloUser.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.pdb
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\02_HelloUser.genruntimeconfig.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\02_HelloUser\obj\Debug\net6.0\ref\02_HelloUser.dll
