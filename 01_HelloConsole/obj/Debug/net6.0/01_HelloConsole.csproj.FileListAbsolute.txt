@@ -1,0 +1,15 @@
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\bin\Debug\net6.0\01_HelloConsole.exe
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\bin\Debug\net6.0\01_HelloConsole.deps.json
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\bin\Debug\net6.0\01_HelloConsole.runtimeconfig.json
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\bin\Debug\net6.0\01_HelloConsole.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\bin\Debug\net6.0\01_HelloConsole.pdb
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.csproj.AssemblyReference.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.AssemblyInfoInputs.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.AssemblyInfo.cs
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\refint\01_HelloConsole.dll
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.pdb
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\01_HelloConsole.genruntimeconfig.cache
+D:\Инна учёба\2023_GeekBrains\Практика\Examples\01_HelloConsole\obj\Debug\net6.0\ref\01_HelloConsole.dll
